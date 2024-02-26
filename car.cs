@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace COMP003A.Assignment6
 {
-    internal class Program
+    internal class car
     {
     }
 }
